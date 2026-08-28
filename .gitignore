@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+data/
+runs/
+results*/
+paper-items.parquet
